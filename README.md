@@ -1,10 +1,10 @@
-# visite Paraty
+# Visite Paraty
 
 ![site](https://user-images.githubusercontent.com/94997593/180661679-8757f187-8387-4c0e-a923-2e3f29f4aa0d.gif)
 
 
 ## :information_source: Sobre
-Uma página sobre a prefeitura de Paraty, criada para solidificação dos conhecimentos em CSS. Projeto desenvolvido durante a realização do curso de CSS da plataforma Devmedia em Julho/2022.
+Uma página sobre a cidade de Paraty, criada para solidificação dos conhecimentos em CSS. Projeto desenvolvido durante a realização do curso de CSS da plataforma Devmedia em Julho/2022.
 
 
 ## :rocket: Tecnologias Utilizadas 
