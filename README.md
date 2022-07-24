@@ -17,4 +17,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## :computer: Acesso ao site
 
-Você pode acessar o site através [desse link](http://barbearia-stylus-ashen.vercel.app/)
+Você pode acessar o site através [desse link](visite-paraty.vercel.app)
